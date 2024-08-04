@@ -31,7 +31,7 @@
         {
             "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/云盘/api.json",
             "name": "云盘"
-        }
+        },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/jsm.json",
             "name": "性爱"
